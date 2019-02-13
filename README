@@ -1,0 +1,42 @@
+****************************************
+Author: Anugesh Balasubramaniam
+Date: 03-23-2018
+****************************************
+
+BRIEF DESCRIPTION:
+
+Converting roman numeral numbers into its decimal (base 10) equivalent
+
+****************************************
+
+COMPILATION:
+
+cobc -x -free -Wall romanA3_1.cob conv.cob
+
+****************************************
+
+EXECUTION:
+
+./romanA3_1
+
+****************************************
+
+RUNTIME:
+
+			   Roman Number Equivalents
+                    *Enter Q or quit to exit the program*
+*Enter a roman numeral (upper or lower case) to convert to its decimal equivalent*
+ 
+ --------------------------------------------
+         Roman Number             Dec. Equiv.
+ ------------------------------   -----------
+X
+ X                                       10
+XI
+ XI                                      11
+ix
+ ix                                       9
+VII
+ VII                                      7
+ß
+****************************************
